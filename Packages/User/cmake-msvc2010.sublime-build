@@ -7,7 +7,7 @@
 
 	"variants": [
 		{
-			"cmd": ["echo", "hello"],
+			"cmd": ["run_msvc2010.bat"],
 			"name": "Run",
 			"shell": true
 		}

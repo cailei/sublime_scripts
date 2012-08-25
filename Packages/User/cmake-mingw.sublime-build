@@ -7,7 +7,7 @@
 
 	"variants": [
 		{
-			"cmd": ["echo", "hello"],
+			"cmd": ["run_mingw.bat"],
 			"name": "Run",
 			"shell": true
 		}
