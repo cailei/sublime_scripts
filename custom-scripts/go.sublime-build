@@ -8,7 +8,7 @@
     "variants":
     [
         {
-            "cmd": ["_bin/blogreader-server-go"],
+            "cmd": ["gnome-terminal -x _bin/blogreader-server-go &"],
             "name": "Run",
             "shell": true
         }
