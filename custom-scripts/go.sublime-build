@@ -1,0 +1,7 @@
+{
+    "cmd": ["/home/cailei/go/bin/gb", "-g", "-v"],
+    "working_dir": "$project_path",
+    "selector": "source.go",
+    "encoding": "utf-8",
+    "file_regex": "^(.+):([0-9]+): (.*)$"
+}
